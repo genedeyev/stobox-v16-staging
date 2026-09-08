@@ -1,0 +1,6 @@
+
+/* this page closes the batch-2 way (Pricing.dc.html): a 28px H2 in two equal cells.
+   Placed after chrome, whose batch-1 closing block would otherwise restate 38px. */
+.cta-col h2{font-size:28px;max-width:26ch;letter-spacing:-.015em;line-height:1.3;margin-top:0}
+.cta-col p{margin-top:14px;max-width:52ch;font-size:16px}
+.hero-proof .pay{margin-top:16px}

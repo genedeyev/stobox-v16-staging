@@ -1,0 +1,26 @@
+{
+ "name": "Stobox",
+ "short_name": "Stobox",
+ "start_url": "/",
+ "display": "browser",
+ "background_color": "#ffffff",
+ "theme_color": "#0a55a0",
+ "description": "Intelligence and tokenization of real-world assets.",
+ "icons": [
+  {
+   "src": "/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "/icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

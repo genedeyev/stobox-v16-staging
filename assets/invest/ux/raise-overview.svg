@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 380" width="540" height="380" font-family="Inter, -apple-system, system-ui, &#39;Segoe UI&#39;, Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <filter id="sR" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#141e3c" flood-opacity="0.10"></feDropShadow></filter>
+    <linearGradient id="gArc" x1="0" y1="1" x2="1" y2="0"><stop offset="0%" stop-color="#1d8a57"></stop><stop offset="100%" stop-color="#37c684"></stop></linearGradient>
+  </defs>
+
+  <rect x="12" y="12" width="516" height="356" rx="20" fill="#ffffff" stroke="#e9ebef" filter="url(#sR)"></rect>
+
+  
+  <text x="34" y="46" font-size="11" font-weight="800" letter-spacing="0.12em" fill="#1d8a57">RAISABLE</text>
+  <text x="34" y="76" font-size="22" font-weight="700" fill="#16224d">Raise overview</text>
+  <rect x="384" y="34" width="122" height="24" rx="12" fill="#e6f6ee"></rect><circle cx="400" cy="46" r="3.5" fill="#1a9c5b"></circle><text x="410" y="50" font-size="12" font-weight="600" fill="#15633e">Open · Reg D</text>
+
+  
+  <path d="M86.26 263.74 A76 76 0 1 1 193.74 263.74" fill="none" stroke="#edeff2" stroke-width="15" stroke-linecap="round"></path>
+  <path d="M86.26 263.74 A76 76 0 1 1 197.0 159.7" fill="none" stroke="url(#gArc)" stroke-width="15" stroke-linecap="round"></path>
+  <text x="140" y="216" text-anchor="middle" font-size="34" font-weight="700" font-family="&#39;JetBrains Mono&#39;, ui-monospace, monospace" fill="#16224d">68%</text>
+  <text x="140" y="236" text-anchor="middle" font-size="11.5" fill="#98a0ab">committed</text>
+  <text x="140" y="296" text-anchor="middle" font-size="13" font-weight="500" fill="#5b6472" font-family="&#39;JetBrains Mono&#39;,monospace">€3.4M / €5.0M</text>
+  <rect x="92" y="312" width="96" height="24" rx="12" fill="#e6f6ee"></rect><circle cx="108" cy="324" r="3.5" fill="#1a9c5b"></circle><text x="118" y="328" font-size="12.5" font-weight="600" fill="#15633e">On track</text>
+
+  
+  <text x="270" y="108" font-size="11" font-weight="700" letter-spacing="0.05em" fill="#98a0ab">RAISE PIPELINE</text>
+  <g font-size="14">
+    <text x="270" y="140" font-weight="500" fill="#1a1f2b">Committed</text><text x="506" y="140" text-anchor="end" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#1a1f2b">68</text>
+    <rect x="270" y="148" width="236" height="6" rx="3" fill="#edeff2"></rect><rect x="270" y="148" width="160.5" height="6" rx="3" fill="#1d8a57"></rect>
+
+    <text x="270" y="184" font-weight="500" fill="#1a1f2b">Verified · KYC/AML</text><text x="506" y="184" text-anchor="end" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#1a1f2b">92</text>
+    <rect x="270" y="192" width="236" height="6" rx="3" fill="#edeff2"></rect><rect x="270" y="192" width="217.1" height="6" rx="3" fill="#1d8a57"></rect>
+
+    <text x="270" y="228" font-weight="500" fill="#1a1f2b">Subscriptions signed</text><text x="506" y="228" text-anchor="end" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#1a1f2b">74</text>
+    <rect x="270" y="236" width="236" height="6" rx="3" fill="#edeff2"></rect><rect x="270" y="236" width="174.6" height="6" rx="3" fill="#1d8a57"></rect>
+
+    <text x="270" y="272" font-weight="500" fill="#1a1f2b">Funds received</text><text x="506" y="272" text-anchor="end" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#1a1f2b">58</text>
+    <rect x="270" y="280" width="236" height="6" rx="3" fill="#edeff2"></rect><rect x="270" y="280" width="136.9" height="6" rx="3" fill="#d8a01f"></rect>
+  </g>
+
+  <rect x="270" y="318" width="156" height="24" rx="12" fill="#fdf3e0"></rect><circle cx="286" cy="330" r="3.5" fill="#d8a01f"></circle><text x="296" y="334" font-size="12.5" font-weight="600" fill="#b07d12">€1.6M to target</text>
+  <text x="506" y="334" text-anchor="end" font-size="13" font-weight="600" fill="#1d8a57">View raise ›</text>
+</svg>

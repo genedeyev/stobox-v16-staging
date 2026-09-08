@@ -1,0 +1,134 @@
+# Stobox
+
+> Intelligence and tokenization of real-world assets. Since 2018, $305M+ in assets
+> structured and supported for 100+ clients across 20+ jurisdictions. A non-custodial
+> technology provider, not a broker-dealer and not a law firm.
+
+Three products against one problem. Intelligence turns a company into one canonical,
+verifiable record and scores it. Raisable turns that record into a regulated offering,
+prepared by specialists and sold through licensed broker-dealer partners. Compass issues
+the token, permissioned, with the compliance enforced by the asset itself.
+
+Fees are published and flat. Stobox never takes a percentage of a raise, at any layer, at
+any point. There is no email wall on any page of this site.
+
+## What is true, and what is not
+
+- Stobox is a backer of ERC-7943, the permissioned token standard. It did not author it.
+- Gene Deyev is Founder and Chief Executive. Ross Shemeliak is Co-Founder.
+- Stobox is not a broker-dealer, not a transfer agent and not a law firm. Regulated
+  activity happens with licensed partners.
+- There is no promise of liquidity. There is a path to secondary trading through licensed
+  venues, and listing decisions rest with the venue.
+
+## Products
+
+- [Intelligence · one record of your company · Stobox](https://www.stobox.io/intelligence/)
+- [Raisable · from your record to a package · Stobox](https://www.stobox.io/raisable/)
+- [Compass · the whole route to a security · Stobox](https://www.stobox.io/compass/)
+- [MCP server · source-linked Stobox knowledge · Stobox](https://www.stobox.io/mcp/)
+
+## Start here
+
+- [Readiness score · check the number yourself · Stobox](https://www.stobox.io/readiness/)
+- [Pricing · flat prices, your quote in writing · Stobox](https://www.stobox.io/pricing/)
+- [What is tokenization · the guide, with the limits · Stobox](https://www.stobox.io/tokenization/)
+- [The Tokenization Framework · eight phases in order · Stobox](https://www.stobox.io/framework/)
+- [Solutions · what each product does for your asset](https://www.stobox.io/solutions/)
+
+## Guides by jurisdiction
+
+- [Tokenization in the British Virgin Islands](https://www.stobox.io/guides/bvi/)
+- [Tokenization in the Cayman Islands](https://www.stobox.io/guides/cayman/)
+- [The regulatory changelog](https://www.stobox.io/guides/changelog/)
+- [The 12 questions that sort the tokenization market](https://www.stobox.io/guides/choose-a-tokenization-platform/)
+- [Tokenization in the European Union](https://www.stobox.io/guides/eu/)
+- [Tokenization in Germany](https://www.stobox.io/guides/germany/)
+- [Tokenization in Hong Kong](https://www.stobox.io/guides/hong-kong/)
+- [How to tokenize company equity](https://www.stobox.io/guides/how-to-tokenize-company-equity/)
+- [How to tokenize real estate](https://www.stobox.io/guides/how-to-tokenize-real-estate/)
+- [Tokenization in Liechtenstein](https://www.stobox.io/guides/liechtenstein/)
+- [Tokenization in Luxembourg](https://www.stobox.io/guides/luxembourg/)
+- [Security token liquidity: the honest guide](https://www.stobox.io/guides/security-token-liquidity/)
+- [Tokenization in Singapore](https://www.stobox.io/guides/singapore/)
+- [Tokenizing an asset through an SPV](https://www.stobox.io/guides/spv-tokenization/)
+- [Tokenization in Switzerland](https://www.stobox.io/guides/switzerland/)
+- [The tokenization timeline](https://www.stobox.io/guides/tokenization-timeline/)
+- [Tokenization in the United Arab Emirates](https://www.stobox.io/guides/uae/)
+- [Tokenization in the United Kingdom](https://www.stobox.io/guides/uk/)
+- [Tokenization in the United States](https://www.stobox.io/guides/us/)
+- [What if the platform disappears?](https://www.stobox.io/guides/what-if-the-platform-disappears/)
+
+## Comparisons
+
+- [ERC-3643 vs ERC-7943](https://www.stobox.io/compare/erc-3643-vs-erc-7943/)
+- [Reg D vs Reg S vs Reg CF vs Reg A+](https://www.stobox.io/compare/reg-d-vs-reg-s-vs-reg-cf-vs-reg-a/)
+- [Security token vs utility token](https://www.stobox.io/compare/security-token-vs-utility-token/)
+- [STO vs ICO vs IEO](https://www.stobox.io/compare/sto-vs-ico-vs-ieo/)
+- [Stobox vs Brickken](https://www.stobox.io/compare/stobox-vs-brickken/)
+- [Stobox vs DigiShares](https://www.stobox.io/compare/stobox-vs-digishares/)
+- [Stobox vs Polymesh](https://www.stobox.io/compare/stobox-vs-polymesh/)
+- [Stobox vs Securitize](https://www.stobox.io/compare/stobox-vs-securitize/)
+- [Stobox vs Tokeny](https://www.stobox.io/compare/stobox-vs-tokeny/)
+- [Tokenization vs IPO](https://www.stobox.io/compare/tokenization-vs-ipo/)
+- [Tokenization vs traditional fundraising](https://www.stobox.io/compare/tokenization-vs-traditional-fundraising/)
+
+## Reference
+
+- [Best RWA tokenization platform for institutions 2026](https://www.stobox.io/learn/best-rwa-tokenization-platform-institutions/)
+- [Build vs buy: should we build our own tokenization stack?](https://www.stobox.io/learn/build-vs-buy-tokenization-stack/)
+- [Chain selection for RWA: Ethereum vs Arbitrum vs Polygon vs permissioned chain](https://www.stobox.io/learn/chain-selection-for-rwa/)
+- [Diamond Standard EIP-2535 for upgradeable security tokens – what are the risks?](https://www.stobox.io/learn/diamond-standard-eip-2535-security-tokens/)
+- [ERC-3643 vs STV3 transfer restriction models](https://www.stobox.io/learn/erc-3643-vs-stv3-transfer-restriction-models/)
+- [ERC-4626 vaults for tokenized private credit](https://www.stobox.io/learn/erc-4626-vaults-tokenized-private-credit/)
+- [What is ERC-7943 (uRWA), the Ethereum standard for real-world asset tokenization?](https://www.stobox.io/learn/erc-7943-urwa-standard/)
+- [How do you handle forced transfers and lost keys on a security token?](https://www.stobox.io/learn/forced-transfers-and-lost-keys-on-a-security-token/)
+- [How to tokenize invoices and receivables](https://www.stobox.io/learn/how-to-tokenize-invoices-receivables/)
+- [How to tokenize LP interests in a VC or PE fund](https://www.stobox.io/learn/how-to-tokenize-lp-interests/)
+- [How to tokenize private credit or a loan book](https://www.stobox.io/learn/how-to-tokenize-private-credit/)
+- [What does an institutional smart contract audit for RWA actually cover?](https://www.stobox.io/learn/institutional-smart-contract-audit-rwa/)
+- [How do you do KYC on-chain without doxxing the token holder?](https://www.stobox.io/learn/on-chain-kyc-without-doxxing/)
+- [How do I migrate Stobox Token (STBU) to Base, and is the new contract safe?](https://www.stobox.io/learn/stbu-base-migration/)
+- [Is Stobox a member of the STO Foundation?](https://www.stobox.io/learn/stobox-sto-foundation-founding-member/)
+- [What is the STV3 Protocol?](https://www.stobox.io/learn/stv3-protocol/)
+- [Tokenization platform for governments and central banks](https://www.stobox.io/learn/tokenization-for-governments-central-banks/)
+- [Can tokenized securities trade on Uniswap? Permissioned AMM design](https://www.stobox.io/learn/tokenized-securities-uniswap-permissioned-amm/)
+- [What does an autonomous AI agent need before it can transact a tokenized real-world asset on-chain?](https://www.stobox.io/learn/what-ai-agents-need-to-transact-tokenized-assets/)
+- [White label tokenization infrastructure providers](https://www.stobox.io/learn/white-label-tokenization-infrastructure/)
+- [Why do most tokenization projects fail?](https://www.stobox.io/learn/why-tokenization-projects-fail/)
+- [Glossary · 78 tokenization terms in plain English · Stobox](https://www.stobox.io/glossary/)
+
+## The company
+
+- [We build the infrastructure that puts real-world assets on-chain.](https://www.stobox.io/about/)
+- [Gene Deyev](https://www.stobox.io/team/gene-deyev/)
+- [Case studies · 55 named engagements · Stobox](https://www.stobox.io/case-studies/)
+- [From the thesis nobody believed in – to the industry standard.](https://www.stobox.io/retrospective/)
+- [Stobox in the press](https://www.stobox.io/press/)
+- [The terms, privacy, and disclosures behind Stobox.](https://www.stobox.io/legal/)
+
+## Investors
+
+- [Invest in Stobox &middot; the seed round](https://www.stobox.io/invest/)
+- [STBX &middot; tokenized equity in Stobox](https://www.stobox.io/stbx/)
+- [STBU &middot; the Stobox ecosystem token](https://www.stobox.io/stbu/)
+- [What Stobox is worth – measured independently, in real time.](https://www.stobox.io/valuation/)
+- [Invest in real assets. Hold them yourself.](https://www.stobox.io/for-investors/)
+
+## Writing
+
+- [Blog · sixty posts on what tokenization requires · Stobox](https://www.stobox.io/blog/)
+- [Essays · six long-form pieces by Gene Deyev · Stobox](https://www.stobox.io/essays/)
+
+## Tools
+
+- [Free record gap check](https://www.stobox.io/gap-check/)
+- [Raise planner](https://www.stobox.io/tools/raise-planner/)
+
+## Writing
+
+346 posts published since 2021, all open, at https://www.stobox.io/blog/. A machine-readable index of every page is at https://www.stobox.io/sitemap.xml and the feed is at https://www.stobox.io/rss.xml.
+
+## Asking directly
+
+Stobox MCP connects a model to this knowledge without crawling: https://www.stobox.io/mcp/

@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Stobox</title>
+  <link>https://www.stobox.io/blog/</link>
+  <description>Real-world asset tokenization, written as the work happened.</description>
+  <language>en</language>
+  <atom:link href="https://www.stobox.io/rss.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>The Investor-Ready Company: Why AI and Tokenization Now Decide Who Raises Capital in 2026</title>
+    <link>https://www.stobox.io/blog/future-finance-investor-ready-company-ai-tokenization/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/future-finance-investor-ready-company-ai-tokenization/</guid>
+    <pubDate>Fri, 04 Sep 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>In 2026 the fundraising bottleneck moved from access to trust. AI diligence and tokenized securities both reward the same thing: structured, verifiable, investor-ready data. Here is why legibility, not pitch, now decides who raises.</description>
+  </item>
+  <item>
+    <title>The Wrapper Decides: Why Tokenized Asset Structuring, Not Minting, Determines Institutional Liquidity in 2026</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-legal-wrapper-structuring-liquidity/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-legal-wrapper-structuring-liquidity/</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The RWA market crossed $36B on-chain, but most tokens barely trade. The decision that separates a liquid digital security from an inert one is made before the first token is minted: the legal wrapper.</description>
+  </item>
+  <item>
+    <title>The SEC Wants to Let the Blockchain Be the Official Share Register</title>
+    <link>https://www.stobox.io/blog/sec-transfer-agent-blockchain-share-register/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/sec-transfer-agent-blockchain-share-register/</guid>
+    <pubDate>Wed, 02 Sep 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>On September 1, 2026 the SEC proposed the first rewrite of its transfer agent rules in over 40 years. For the first time, a blockchain could serve as the official record of who owns a security. Here is what the 421-page proposal actually says, in plain language – and why Stobox has been building for exactly this moment since 2018.</description>
+  </item>
+  <item>
+    <title>The Data-Ready Company: Why Enterprise AI Agents Fail on Foundations, Not Intelligence</title>
+    <link>https://www.stobox.io/blog/business-intelligence-data-ready-company-ai-agents/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-data-ready-company-ai-agents/</guid>
+    <pubDate>Mon, 31 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Technology</category>
+    <description>Enterprise AI agents do not fail because models are weak. They fail because the data underneath them is unstructured, ungoverned, and unverified. In 2026, data readiness is the dividing line between the companies that scale AI and the 95% that stall.</description>
+  </item>
+  <item>
+    <title>The Agent-Ready Raise: How AI and Tokenization Are Rewriting Capital Formation</title>
+    <link>https://www.stobox.io/blog/future-finance-agent-ready-capital-formation/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/future-finance-agent-ready-capital-formation/</guid>
+    <pubDate>Fri, 28 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>AI agents are moving from research tools to autonomous capital-market participants, and tokenized private assets crossed $22B. The companies that raise capital next will be the ones whose data machines can read, verify, and act on.</description>
+  </item>
+  <item>
+    <title>The RWA Liquidity Illusion: Why Tokenized Assets Sit Idle in 2026</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-illusion-idle-assets/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-illusion-idle-assets/</guid>
+    <pubDate>Wed, 26 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>On-chain RWA value quadrupled to $33.5B, yet most of it never trades. The real 2026 story is not issuance. It is usability: the assets that can be traded, posted as collateral, and settled are the ones winning.</description>
+  </item>
+  <item>
+    <title>Stobox Weekly RWA &amp; Tokenization Digest: August 19–25, 2026</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-aug-19-25-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-aug-19-25-2026/</guid>
+    <pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Coinbase put tokenized US stocks live on Base with the new B20 standard, Standard Chartered became the first bank to distribute Hong Kong&#x27;s HKDAP stablecoin, and the RWA market held near $38.4B as holders topped 2.5M. The week the equity race and the settlement layer both moved.</description>
+  </item>
+  <item>
+    <title>The Agent-Ready Company: Why Autonomous AI Fails Without Data It Can Act On</title>
+    <link>https://www.stobox.io/blog/business-intelligence-agent-ready-company-autonomous-ai/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-agent-ready-company-autonomous-ai/</guid>
+    <pubDate>Mon, 24 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Technology</category>
+    <description>Enterprises are moving from copilots to autonomous agents in 2026. The binding constraint is no longer model quality: it is whether your business data and context are structured enough for an agent to act on. Here is what separates the companies that scale.</description>
+  </item>
+  <item>
+    <title>Tokenizing Real Estate the Legal Way: Why Liens Beat Fractionalizing the House</title>
+    <link>https://www.stobox.io/blog/tokenizing-real-estate-legal-frameworks-liens/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenizing-real-estate-legal-frameworks-liens/</guid>
+    <pubDate>Sat, 22 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Naive LLC-wrapper fractionalization of a home collides with US property and securities law. The cleaner path may be tokenizing county-recorded instruments: the mortgage note and lien, not the deed.</description>
+  </item>
+  <item>
+    <title>The Capital Bifurcation: Why 90% of Fundraisers Need New Rails in 2026</title>
+    <link>https://www.stobox.io/blog/future-finance-capital-bifurcation-tokenized-fundraising-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/future-finance-capital-bifurcation-tokenized-fundraising-2026/</guid>
+    <pubDate>Fri, 21 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Five mega-firms captured 73% of new private-capital commitments in H1 2026. The other 90% of fundraisers are being priced out of traditional pools. Tokenized, investor-ready infrastructure is becoming their only viable alternative.</description>
+  </item>
+  <item>
+    <title>RWA Tokenization in 2026: The $38B Market Is Concentrated in the Wrong Place</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-rwa-concentration-private-markets-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-rwa-concentration-private-markets-2026/</guid>
+    <pubDate>Wed, 19 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Tokenized real-world assets crossed $38B in 2026, but nearly all of it sits in Treasuries and cash. The real opportunity in private markets is barely on-chain, and the reason is infrastructure, not demand.</description>
+  </item>
+  <item>
+    <title>Stobox Weekly RWA &amp; Tokenization Digest: August 12–18, 2026</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-aug-12-18-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-aug-12-18-2026/</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The week Washington wrote the rules: Treasury proposed GENIUS Act stablecoin rules, the SEC delayed its tokenization exemption again, and Ondo Stocks crossed $1B as the RWA market pressed toward $40B.</description>
+  </item>
+  <item>
+    <title>Financing What Doesn&#x27;t Exist Yet: Stobox, Economy of Trust Ukraine, and the Capital Path for Reconstruction</title>
+    <link>https://www.stobox.io/blog/stobox-economy-of-trust-ukraine-reconstruction-finance/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-economy-of-trust-ukraine-reconstruction-finance/</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Ukraine&#x27;s reconstruction is an €800 billion+ need with a structural financing gap at the earliest stage: nobody funds the proving phase, because early capital has no path back to liquidity. Economy of Trust Ukraine built the governance architecture; Stobox provides the tokenization infrastructure that gives the earliest money a defined exit. Here is how the two fit together.</description>
+  </item>
+  <item>
+    <title>What Is Stobox? The Company, the Stack, and How Tokenization Actually Gets Done</title>
+    <link>https://www.stobox.io/blog/what-is-stobox/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/what-is-stobox/</guid>
+    <pubDate>Tue, 18 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Stobox is an infrastructure layer for tokenized capital markets: one company, three products, eight years of doing the unglamorous work between a real-world asset and a regulated on-chain security. This is the canonical explainer – what Stobox is, what each layer of the stack does, what it costs, and what Stobox deliberately is not.</description>
+  </item>
+  <item>
+    <title>The AI ROI Gap Is a Data Problem: Why 95% of Enterprise AI Pilots Fail</title>
+    <link>https://www.stobox.io/blog/business-intelligence-ai-roi-gap-data-problem/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-ai-roi-gap-data-problem/</guid>
+    <pubDate>Mon, 17 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Technology</category>
+    <description>Enterprises poured $30-40B into generative AI and 95% of pilots returned nothing. The dividing line is not model quality. It is whether the company&#x27;s data and workflows are AI-ready.</description>
+  </item>
+  <item>
+    <title>Permissioned Blockchains for Finance: Where Wall Street&#x27;s Regulated Capital Flows First</title>
+    <link>https://www.stobox.io/blog/permissioned-blockchains-institutional-finance/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/permissioned-blockchains-institutional-finance/</guid>
+    <pubDate>Sat, 15 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Large pools of regulated capital demand surveilled, compliant environments. That is why institutional RWA flows are landing on permissioned chains and permissioned layers on public rails, not on open DeFi. Here is where the money is actually going, and how to build for it.</description>
+  </item>
+  <item>
+    <title>The RWA Liquidity Gap: Why $33 Billion in Tokenized Assets Still Can&#x27;t Trade</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-gap/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-gap/</guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Tokenized real-world assets tripled to $33.5B in a year, but most of that value sits idle. The winners of the next phase will build tradeable secondary markets, not bigger issuance numbers.</description>
+  </item>
+  <item>
+    <title>Our Reg D Seed Round Is Open, and It Carries TigerMark Coverage</title>
+    <link>https://www.stobox.io/blog/reg-d-round-live-tigermark/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/reg-d-round-live-tigermark/</guid>
+    <pubDate>Wed, 12 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>The US leg of the Stobox seed round is live on Silicon Prairie, open to verified accredited investors. We have also secured TigerMark, a D&amp;O and securities-liability policy built for regulated online offerings. Here is what it is, and what it deliberately is not.</description>
+  </item>
+  <item>
+    <title>Stobox Weekly RWA &amp; Tokenization Digest: August 5–11, 2026</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-aug-5-11-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-aug-5-11-2026/</guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Tokenized RWAs hit $38.17B and closed within $1.83B of the $40B milestone as holders jumped 56% to 1.7M. Tether took real estate tokenization to Saudi Arabia, Binance&#x27;s bStocks seized 85% of tokenized-equity DEX volume, and the GENIUS Act rulebook slipped to 2027.</description>
+  </item>
+  <item>
+    <title>Stobox Is Now a Founding Member of the STO Foundation</title>
+    <link>https://www.stobox.io/blog/stobox-founding-member-sto-foundation/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-founding-member-sto-foundation/</guid>
+    <pubDate>Tue, 11 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>Stobox has upgraded from Verified Member to Founding Member of the STO Foundation, a lifetime designation limited to 25 seats. Here is what the tier actually means, what it explicitly does not mean, and why an infrastructure company pays to sit inside an industry body instead of around it.</description>
+  </item>
+  <item>
+    <title>The AI Data Divide: Why Your Company&#x27;s Data Decides Whether AI (and Investors) Trust You</title>
+    <link>https://www.stobox.io/blog/business-intelligence-ai-data-divide-enterprise-readiness/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-ai-data-divide-enterprise-readiness/</guid>
+    <pubDate>Mon, 10 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Technology</category>
+    <description>Enterprise AI is not stalling on model quality. It is stalling on data. In 2026 the companies capturing value share one trait: structured, governed, verifiable business information. That same foundation is what makes a company investment-ready.</description>
+  </item>
+  <item>
+    <title>Blockchain Stock Issuance vs Underwriters: A Step-by-Step Cost Breakdown</title>
+    <link>https://www.stobox.io/blog/blockchain-stock-issuance-vs-underwriters/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/blockchain-stock-issuance-vs-underwriters/</guid>
+    <pubDate>Sat, 08 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Traditional stock issuance routes trust through underwriters, transfer agents, and clearing agencies at 4-7% of proceeds. Smart-contract issuance automates the verification jobs, but legal, audit, and compliance still need professionals. Here is the step-by-step contrast.</description>
+  </item>
+  <item>
+    <title>The Two-Economy Split in Private Markets: Why Capital Isn&#x27;t the Problem, Readiness Is</title>
+    <link>https://www.stobox.io/blog/future-finance-two-economy-split-private-markets-readiness/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/future-finance-two-economy-split-private-markets-readiness/</guid>
+    <pubDate>Fri, 07 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Global PE fundraising fell 30% in H1 2026 while the largest managers raised more than ever. The dividing line is no longer capital availability. It is investor readiness, and AI plus tokenization is how the second economy competes.</description>
+  </item>
+  <item>
+    <title>The Tokenization Liquidity Paradox: Why $50B in RWA Doesn&#x27;t Trade (And What Fixes It)</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-paradox-structuring/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-paradox-structuring/</guid>
+    <pubDate>Wed, 05 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Tokenized RWA has crossed $34B to $51B depending on who counts, yet most of it never trades. The bottleneck is not the blockchain. It is the structuring decisions made before the first token is minted.</description>
+  </item>
+  <item>
+    <title>Stobox Weekly RWA &amp; Tokenization Digest – Week of July 29 – August 4, 2026</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-jul-29-aug-4-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-jul-29-aug-4-2026/</guid>
+    <pubDate>Tue, 04 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>BlackRock ships two new tokenized money market products, the RWA market hits $36.8B, Ripple buys into XRPL tokenization infrastructure, and the CLARITY Act reaches a knife-edge before the Senate recess. Here is what changed and what to do about it.</description>
+  </item>
+  <item>
+    <title>The Data Dividend: Why AI-Ready Companies Win the 2026 Scaling Gap</title>
+    <link>https://www.stobox.io/blog/business-intelligence-ai-ready-data-scaling-gap/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-ai-ready-data-scaling-gap/</guid>
+    <pubDate>Mon, 03 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Technology</category>
+    <description>Enterprise AI adoption is near-universal, but scaled value is rare. The dividing line in 2026 is not model quality. It is whether your business data is structured, verified, and AI-ready.</description>
+  </item>
+  <item>
+    <title>RWA Market Size 2030: What the Trillion-Dollar Projections Actually Say</title>
+    <link>https://www.stobox.io/blog/rwa-market-size-2030-trillion-projections/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-market-size-2030-trillion-projections/</guid>
+    <pubDate>Sat, 01 Aug 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The 2030 tokenization forecasts span from McKinsey&#x27;s $2T to BCG&#x27;s $16T, an 8x spread. Here is what would have to be true for each, and why the gap between forecasts is the real story for issuers.</description>
+  </item>
+  <item>
+    <title>The New Capital Bottleneck: Why Provable Intelligence, Not Access, Now Decides Who Raises</title>
+    <link>https://www.stobox.io/blog/future-finance-provable-intelligence-capital-formation/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/future-finance-provable-intelligence-capital-formation/</guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Global dry powder sits at $4.6T, yet most companies still cannot raise. In 2026 the fundraising bottleneck moved from access to capital to provable, investor-ready intelligence, delivered on compliant tokenized rails.</description>
+  </item>
+  <item>
+    <title>Stobox clears due diligence with FINRA-member broker-dealer Silicon Prairie Capital Partners</title>
+    <link>https://www.stobox.io/blog/stobox-clears-broker-dealer-due-diligence/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-clears-broker-dealer-due-diligence/</guid>
+    <pubDate>Fri, 31 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Silicon Prairie Capital Partners, an SEC-registered, FINRA-member broker-dealer, has cleared Stobox&#x27;s company raise through its due diligence review. Here is what that review covers, why an independent regulated gatekeeper matters, and what happens next. This is a corporate milestone announcement, not an offer of securities.</description>
+  </item>
+  <item>
+    <title>Tokenized Private Credit Meets Its First Downturn: Why Transparency, Not Tokens, Decides Who Survives</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-private-credit-downturn-transparency/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-private-credit-downturn-transparency/</guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Private credit became one of the largest tokenized RWA segments just as defaults hit record highs. The collision is the real test: tokenization does not fix credit risk, it fixes the opacity that makes credit crises worse.</description>
+  </item>
+  <item>
+    <title>What Is Stobox Intelligence? The Verified System of Record for Businesses Read by AI</title>
+    <link>https://www.stobox.io/blog/what-is-stobox-intelligence/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/what-is-stobox-intelligence/</guid>
+    <pubDate>Wed, 29 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Product &amp; Releases</category>
+    <description>Capital, banking and regulatory decisions are increasingly made by AI. Stobox Intelligence is the verified system of record that reads your business the way a counterparty&#x27;s AI will, and gets you ready before they ever look. A complete explanation of the product, with examples. Beta opens August 2026.</description>
+  </item>
+  <item>
+    <title>Stobox Weekly RWA &amp; Tokenization Digest – Week of July 22–28, 2026</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-july-22-28-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-july-22-28-2026/</guid>
+    <pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Tokenized equities went global this week: Kakao Pay tapped Nasdaq-listed Siebert for 24-hour Korean stocks, Kraken&#x27;s xStocks expanded across borders, and Abu Dhabi&#x27;s Mubadala tokenized a private fund with Coinbase investing directly. On-chain RWA value eased to $34.67B even as the pipeline widened.</description>
+  </item>
+  <item>
+    <title>The Intelligent Company Runs on Data It Can Trust: Why 94% of Enterprises Won&#x27;t Capture AI Value in 2026</title>
+    <link>https://www.stobox.io/blog/business-intelligence-ai-ready-data-advantage/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-ai-ready-data-advantage/</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Technology</category>
+    <description>88% of companies use AI, yet only 6% capture real EBIT impact. The gap is not the model. It is the data, the workflow, and the structure underneath. Here is what the intelligent company does differently.</description>
+  </item>
+  <item>
+    <title>Brazil Just Financed a Loan Against Tokenized Cows on a National Stock Exchange</title>
+    <link>https://www.stobox.io/blog/brazil-b3-tokenized-cattle-loan-rwa/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/brazil-b3-tokenized-cattle-loan-rwa/</guid>
+    <pubDate>Mon, 27 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>B3, Brazil&#x27;s national stock exchange, registered the first credit operation collateralized by tokenized dairy cattle: a R$100,000 loan against 10 IoT-monitored cows. Here is what actually happened, verified against primary Brazilian sources, and what it signals for real-world asset tokenization.</description>
+  </item>
+  <item>
+    <title>Connect any AI to Stobox: the tokenization knowledge graph is now an MCP server</title>
+    <link>https://www.stobox.io/blog/stobox-intelligence-mcp-launch/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-intelligence-mcp-launch/</guid>
+    <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Product &amp; Releases</category>
+    <description>The Stobox Intelligence Graph is now available over the Model Context Protocol. Connect Claude, ChatGPT or Cursor to one endpoint and get verified, source-linked answers on real-world-asset tokenization, security tokens, regulation by jurisdiction, and token standards.</description>
+  </item>
+  <item>
+    <title>Stablecoin Market Dominance: Why the Tokenized Dollar Was the First Successful RWA</title>
+    <link>https://www.stobox.io/blog/stablecoin-dominance-first-successful-rwa/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stablecoin-dominance-first-successful-rwa/</guid>
+    <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The stablecoin is the first real-world asset that worked at scale. A $300B+ tokenized dollar market that out-settles Visa and Mastercard shows exactly why wrapping an off-chain asset in a programmable, portable format wins, and why the dollar became the apex predator of on-chain liquidity.</description>
+  </item>
+  <item>
+    <title>The DPI Squeeze: How AI and Tokenization Are Rewiring Private Capital Formation in 2026</title>
+    <link>https://www.stobox.io/blog/future-finance-dpi-squeeze-ai-tokenization-capital/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/future-finance-dpi-squeeze-ai-tokenization-capital/</guid>
+    <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Private markets fundraising has split in two. Capital now concentrates with managers who can prove realized returns and deliver institutional-grade data. AI raised the transparency bar; tokenization is building the liquidity to end the distribution drought.</description>
+  </item>
+  <item>
+    <title>The Economy of Trust: How Ukraine&#x27;s Municipalities, Global Partners, and Tokenization Are Rewiring Post-War Reconstruction</title>
+    <link>https://www.stobox.io/blog/economy-of-trust-ukraine-stobox-tokenization-partner/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/economy-of-trust-ukraine-stobox-tokenization-partner/</guid>
+    <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>Economy of Trust Ukraine unites mayors, a coalition of international companies, and a 7-stage project finance program to turn Ukraine&#x27;s reconstruction into transparent, investable assets. Stobox serves as the ecosystem&#x27;s tokenization partner. Here is how the model works, who is behind it, and why verifiable transparency, not promises, is what will unlock capital for Ukraine. Available in English a</description>
+  </item>
+  <item>
+    <title>The Tokenization Usage Gap: Why 56% of Tokenized Assets Sit Idle – And What Separates Live Markets From Dead Tokens</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-usage-gap-dormant-assets/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-usage-gap-dormant-assets/</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The tokenized RWA market crossed $60B, but 56% of large tokenized assets show zero weekly on-chain activity. The real contest is no longer issuance – it is whether a token becomes a functioning market.</description>
+  </item>
+  <item>
+    <title>The Round Is Live: Non-US Investors Can Now Own Stobox Through STBX</title>
+    <link>https://www.stobox.io/blog/stbx-round-live/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stbx-round-live/</guid>
+    <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>Stobox&#x27;s investment round is open – and from today, eligible non-US investors can participate through STBX, our tokenized Class-C equity, live on Stobox Compass. Here is what a tokenized share actually is, and why we issued ours on our own rails.</description>
+  </item>
+  <item>
+    <title>Stobox Weekly RWA &amp; Tokenization Digest – Week of July 15–21, 2026</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-july-15-21-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-july-15-21-2026/</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>DTCC put tokenized US securities into live production trades, Alpaca and Broadridge wired shareholder governance into tokenized equities, and tokenized stocks hit a record $2.3B – the week tokenization moved into the core plumbing of finance.</description>
+  </item>
+  <item>
+    <title>The Missing Primitive for On-Chain AI Agents Isn&#x27;t a Mandate – It&#x27;s Verified Context</title>
+    <link>https://www.stobox.io/blog/ai-agents-rwa-missing-intelligence-layer/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/ai-agents-rwa-missing-intelligence-layer/</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>Brickken is right that AI agents need on-chain identity, reputation, mandates, and payments before they can touch regulated assets. But a fifth primitive sits above all four: the verified, machine-readable record an agent reasons over. A mandate says what an agent may do. It never says what is true.</description>
+  </item>
+  <item>
+    <title>Consolidating STBU: Trading on MEXC Winds Down Ahead of Base</title>
+    <link>https://www.stobox.io/blog/stbu-mexc-migration-notice/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stbu-mexc-migration-notice/</guid>
+    <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>As Stobox Token (STBU) consolidates onto a single canonical contract on Base, trading of STBU on MEXC will wind down this week. This is a planned step in the migration: the move to Base runs on-chain, from wallets holders control, so tokens are moving back into holders&#x27; hands to be migrated 1:1. If you hold STBU on MEXC, withdraw it to a self-custody wallet now and migrate before the 15 September </description>
+  </item>
+  <item>
+    <title>The Data Readiness Gap: Why Enterprise AI Stalls in 2026 – And What Separates the 5% That Scale</title>
+    <link>https://www.stobox.io/blog/business-intelligence-data-readiness-gap-enterprise-ai/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-data-readiness-gap-enterprise-ai/</guid>
+    <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Technology</category>
+    <description>Enterprise AI in 2026 isn&#x27;t limited by model quality. It&#x27;s limited by data. The companies extracting value fixed their data foundation first – and that foundation is also what makes them investment-ready.</description>
+  </item>
+  <item>
+    <title>One STBU, One Chain: Stobox Token Is Live on Base</title>
+    <link>https://www.stobox.io/blog/stobox-token-stbu-base-migration/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-token-stbu-base-migration/</guid>
+    <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Product &amp; Releases</category>
+    <description>Stobox Token (STBU) is consolidating onto a single canonical contract on Base – one token, a clean 1:1 exchange, and zero migration fees. The new contract is live, verified on BaseScan, immutable, and hard-capped at 250,000,000. Holders on Ethereum, BNB Chain, Polygon, and Arbitrum burn their old STBU and claim the new token 1:1 from 15 September 2026. Here is what STBU is, how the migration works</description>
+  </item>
+  <item>
+    <title>The Machine-Readable Company: How AI and Tokenization Are Rewiring Capital Formation</title>
+    <link>https://www.stobox.io/blog/future-finance-machine-readable-capital-formation/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/future-finance-machine-readable-capital-formation/</guid>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Private fundraising is at a multi-year low while LPs demand deeper due diligence and AI agents enter investment workflows. The companies that raise capital next will be the ones whose data machines can read, verify, and act on.</description>
+  </item>
+  <item>
+    <title>Stobox Compass Lite Is Live: Tokenized Fundraising, In Production Today</title>
+    <link>https://www.stobox.io/blog/stobox-compass-lite-live/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-compass-lite-live/</guid>
+    <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Product &amp; Releases</category>
+    <description>Stobox Compass Lite – the current production release of Stobox Compass – is officially live at version 1.10. Issuers run a complete tokenized capital raise from a branded page on their own domain: investors commit, verify identity, sign hash-pinned documents, pay in stablecoins straight to the issuer&#x27;s treasury, and receive their tokens. Non-custodial by construction, verified on-chain, and open f</description>
+  </item>
+  <item>
+    <title>Tokenization of Securities: The Next Market Wrapper After the ETF</title>
+    <link>https://www.stobox.io/blog/tokenization-of-securities-after-etf-era/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-of-securities-after-etf-era/</guid>
+    <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The ETF proved that packaging beats product: a better wrapper around the same assets reshaped $23 trillion of capital. The tokenization of securities is the next wrapper – and this time the endorsement comes from the top of traditional finance.</description>
+  </item>
+  <item>
+    <title>Stobox Joins the Qatar Financial Centre Digital Assets Lab</title>
+    <link>https://www.stobox.io/blog/stobox-qfc-digital-assets-lab/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-qfc-digital-assets-lab/</guid>
+    <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>Stobox is an official participant in the QFC Digital Assets Lab – Qatar&#x27;s structured environment for building regulated tokenization under the Digital Assets Framework 2024. Here is what the Qatar Financial Centre is, how the Lab works, and why a jurisdiction that legally recognizes property rights in tokens matters for real-world asset tokenization.</description>
+  </item>
+  <item>
+    <title>The Tokenized RWA Liquidity Gap: Why $60B On-Chain Doesn&#x27;t Move</title>
+    <link>https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-gap-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-intelligence-rwa-liquidity-gap-2026/</guid>
+    <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The tokenized real-world asset market crossed $60 billion in 2026, but 56% of it shows zero weekly on-chain activity. The gap between minting and liquidity is now the defining problem in tokenization.</description>
+  </item>
+  <item>
+    <title>Stobox Joins the STO Foundation as a Verified Member</title>
+    <link>https://www.stobox.io/blog/stobox-verified-member-sto-foundation/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-verified-member-sto-foundation/</guid>
+    <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>Stobox is a Verified Member of the STO Foundation – the non-profit building shared standards, education, and trusted connections for tokenized capital markets. Here is what the Foundation does, why we joined, what the Foundation said about Stobox, and what the membership already looks like in practice.</description>
+  </item>
+  <item>
+    <title>The Missing Layer of AI Transformation: Why AI Readiness Starts With Business Intelligence</title>
+    <link>https://www.stobox.io/blog/business-intelligence-missing-layer-ai-transformation/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/business-intelligence-missing-layer-ai-transformation/</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Company &amp; Insights</category>
+    <description>Enterprise AI is not failing on models – it is failing on company data. The evidence now points one way: AI readiness starts with a structured, verified company record.</description>
+  </item>
+  <item>
+    <title>RWA &amp; Tokenization Weekly: DTCC Goes Live, Tokenized Stocks Break Records (Jul 8–14, 2026)</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-jul-8-14-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-jul-8-14-2026/</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The DTCC&#x27;s tokenized-securities pilot begins, tokenized stocks hit a record $2.16B with transfer volume up 105%, and the SEC&#x27;s innovation exemption debate heats up. Our verified read on the week that mattered in tokenization.</description>
+  </item>
+  <item>
+    <title>Tokenization&#x27;s Next Stage: Personalized Portfolios at Scale – NYLIM&#x27;s Vision, and the Stobox Take</title>
+    <link>https://www.stobox.io/blog/tokenization-next-stage-personalized-portfolios/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/tokenization-next-stage-personalized-portfolios/</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>An $807 billion asset manager says tokenization&#x27;s real prize is not faster settlement but mass-customized portfolios. We unpack New York Life Investment Management&#x27;s vision, the evidence behind it – from its USDC-settled bond fund to Citi&#x27;s $5.5 trillion forecast – and Gene Deyev&#x27;s view on what it takes to actually build this, and for whom.</description>
+  </item>
+  <item>
+    <title>Stablecoins Explained: The Trilemma, the GENIUS Act Era, and the Best Stablecoins of 2026</title>
+    <link>https://www.stobox.io/blog/stablecoins-explained-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stablecoins-explained-2026/</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>A complete guide to stablecoins in 2026: how fiat-backed, crypto-backed and algorithmic designs work, why the stablecoin trilemma forces every issuer to choose two of three properties, what the GENIUS Act, CLARITY Act, MiCA, Hong Kong and UK regimes actually require, and which stablecoins lead the $300B market today.</description>
+  </item>
+  <item>
+    <title>Stobox Technologies now carries an independent, real-time company valuation</title>
+    <link>https://www.stobox.io/blog/stobox-technologies-independent-valuation/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-technologies-independent-valuation/</guid>
+    <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Capital Raising</category>
+    <description>Stobox Technologies Inc. is tracked by Eqvista&#x27;s Real-Time Company Valuation® – an independent, market-based estimate that updates as the company and the market move. Here is what Stobox is, who Eqvista is, why valuations matter, what goes into a professional appraisal, and what the number does and does not mean.</description>
+  </item>
+  <item>
+    <title>Stobox Weekly RWA &amp; Tokenization Digest – Week of July 6–12, 2026</title>
+    <link>https://www.stobox.io/blog/rwa-tokenization-digest-july-6-12-2026/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/rwa-tokenization-digest-july-6-12-2026/</guid>
+    <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Tokenization</category>
+    <description>The week tokenization went institutional: Ondo launched the first US custodial tokenized stocks, Securitize listed on the NYSE, Ripple won a full MiCA license, and Europe&#x27;s crypto market became licensed-only. Here is what happened, why it matters, and how asset owners and investors should react.</description>
+  </item>
+  <item>
+    <title>Stobox 4 is setting, the new Stobox is rising</title>
+    <link>https://www.stobox.io/blog/stobox-4-setting-new-stobox-rising/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-4-setting-new-stobox-rising/</guid>
+    <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Product &amp; Releases</category>
+    <description>The transition, the migration, and what it means for STBU – plus the complete step-by-step guide to move your STBU to Base 1:1. Why Stobox 4 is being sunset, the new three-product suite, the 15 September burn deadline, and minting on Base from 15 September against a 250M hard cap.</description>
+  </item>
+  <item>
+    <title>The New Stobox: One System to Organize, Raise, and Tokenize</title>
+    <link>https://www.stobox.io/blog/the-new-stobox-one-system/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/the-new-stobox-one-system/</guid>
+    <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Product &amp; Releases</category>
+    <description>We rebuilt Stobox into a single stack – Intelligence, Raisable, and Compass – on one intelligence core. After eight years and $305M+ in assets supported, here is what we shipped and why.</description>
+  </item>
+  <item>
+    <title>How Stobox Intelligence Helps Businesses Make Tokenization Decisions</title>
+    <link>https://www.stobox.io/blog/stobox-intelligence-for-business-decisions/</link>
+    <guid isPermaLink="true">https://www.stobox.io/blog/stobox-intelligence-for-business-decisions/</guid>
+    <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
+    <category>Product &amp; Releases</category>
+    <description>Stobox Intelligence is a decision-support layer for real-world asset tokenization. Here is how businesses can use it now, with worked examples – and how to get access while it is in beta.</description>
+  </item>
+</channel>
+</rss>

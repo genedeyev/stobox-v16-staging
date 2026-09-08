@@ -1,0 +1,6 @@
+
+
+/* ---- main page after chrome: the artboard's closing panel is one bordered box
+   holding the plate, the two columns and the privacy line; the second note in a
+   section header sits 14px under the first. ---- */
+.sec-head p.sec-note-2{margin-top:14px}

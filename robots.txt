@@ -1,0 +1,4 @@
+# Stobox V16 staging. Not the live site.
+
+User-agent: *
+Disallow: /

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 380" width="540" height="380" font-family="Inter, system-ui, sans-serif">
+  <defs><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#141e3c" flood-opacity="0.10"></feDropShadow></filter></defs>
+  <rect x="12" y="12" width="516" height="356" rx="20" fill="#fff" stroke="#e9ebef" filter="url(#s)"></rect>
+  <text x="32" y="44" font-size="11" font-weight="800" letter-spacing="0.12em" fill="#6b46c1">INTELLIGENCE</text>
+  <text x="32" y="72" font-size="22" font-weight="700" fill="#16224d">Raise &amp; token readiness</text>
+  <line x1="32" y1="92" x2="508" y2="92" stroke="#eef0f3"></line>
+
+  
+  <g>
+    <text x="32" y="124" font-size="14" font-weight="700" fill="#16224d">Raise-ready</text>
+    <text x="252" y="124" text-anchor="end" font-size="14" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#1d8a57">86%</text>
+    <rect x="32" y="134" width="220" height="9" rx="4.5" fill="#edeff2"></rect><rect x="32" y="134" width="189" height="9" rx="4.5" fill="#1d8a57"></rect>
+    <g font-size="12.5">
+      <g transform="translate(32 158)" stroke="#1d8a57" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="8"></circle><path d="m4 8 3 3 5-6"></path></g><text x="56" y="172" fill="#5b6472">Financials current</text>
+      <g transform="translate(32 182)" stroke="#1d8a57" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="8"></circle><path d="m4 8 3 3 5-6"></path></g><text x="56" y="196" fill="#5b6472">Cap table clean</text>
+      <g transform="translate(32 206)" stroke="#d8a01f" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="8"></circle><path d="M8 4v4l3 2"></path></g><text x="56" y="220" fill="#5b6472">Disclosures drafting</text>
+    </g>
+
+    <text x="288" y="124" font-size="14" font-weight="700" fill="#16224d">Token-ready</text>
+    <text x="508" y="124" text-anchor="end" font-size="14" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#2b64f5">72%</text>
+    <rect x="288" y="134" width="220" height="9" rx="4.5" fill="#edeff2"></rect><rect x="288" y="134" width="158" height="9" rx="4.5" fill="#2b64f5"></rect>
+    <g font-size="12.5">
+      <g transform="translate(288 158)" stroke="#1d8a57" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="8"></circle><path d="m4 8 3 3 5-6"></path></g><text x="312" y="172" fill="#5b6472">SPV wrapper set</text>
+      <g transform="translate(288 182)" stroke="#d8a01f" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="8"></circle><path d="M8 4v4l3 2"></path></g><text x="312" y="196" fill="#5b6472">Eligibility rules</text>
+      <g transform="translate(288 206)" stroke="#cfd5e0" stroke-width="1.6" fill="none" stroke-linecap="round" stroke-linejoin="round"><circle cx="8" cy="8" r="8"></circle></g><text x="312" y="220" fill="#97a0ae">Custody decision</text>
+    </g>
+  </g>
+
+  <line x1="32" y1="246" x2="508" y2="246" stroke="#eef0f3"></line>
+  <text x="32" y="274" font-size="11" font-weight="700" letter-spacing="0.05em" fill="#97a0ae">NEXT TO UNLOCK</text>
+  <g font-size="13.5">
+    <rect x="32" y="286" width="4" height="30" rx="2" fill="#d8a01f"></rect><text x="48" y="298" font-weight="600" fill="#16224d">Finalize disclosure pack</text><text x="48" y="314" font-size="12" fill="#97a0ae">Unblocks raise-ready → 100%</text>
+    <rect x="288" y="286" width="4" height="30" rx="2" fill="#2b64f5"></rect><text x="304" y="298" font-weight="600" fill="#16224d">Choose custody model</text><text x="304" y="314" font-size="12" fill="#97a0ae">Unblocks token-ready → 90%</text>
+  </g>
+  <line x1="32" y1="334" x2="508" y2="334" stroke="#eef0f3"></line>
+  <text x="32" y="356" font-size="12" fill="#97a0ae">Both tracks share the same live record</text>
+</svg>

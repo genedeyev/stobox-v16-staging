@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 380" width="540" height="380" font-family="Inter, system-ui, sans-serif">
+  <defs><filter id="s" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#141e3c" flood-opacity="0.10"></feDropShadow></filter></defs>
+  <rect x="12" y="12" width="516" height="356" rx="20" fill="#fff" stroke="#e9ebef" filter="url(#s)"></rect>
+  <text x="32" y="44" font-size="11" font-weight="800" letter-spacing="0.12em" fill="#2b64f5">COMPASS</text>
+  <text x="32" y="72" font-size="22" font-weight="700" fill="#16224d">Launch</text>
+  <rect x="442" y="54" width="70" height="24" rx="12" fill="#e6f6ee"></rect><circle cx="458" cy="66" r="3.8" fill="#1d8a57"></circle><text x="468" y="70" font-size="12" font-weight="600" fill="#1d8a57">Live</text>
+  <line x1="32" y1="92" x2="508" y2="92" stroke="#eef0f3"></line>
+
+  
+  <rect x="32" y="104" width="476" height="92" rx="14" fill="#eef4ff" stroke="#d4e2fc"></rect>
+  <text x="50" y="132" font-size="12" fill="#2b64f5">Tokens issued to verified investors</text>
+  <text x="50" y="170" font-size="34" font-weight="600" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#16224d">11,280,000</text>
+  <text x="492" y="132" text-anchor="end" font-size="12" fill="#2b64f5">of 12,000,000</text>
+  <text x="492" y="168" text-anchor="end" font-size="22" font-weight="600" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#1d8a57">94%</text>
+
+  <text x="32" y="230" font-size="13" font-weight="500" fill="#16224d">Distribution progress</text><text x="508" y="230" text-anchor="end" font-size="13" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#2b64f5">94%</text>
+  <rect x="32" y="240" width="476" height="10" rx="5" fill="#edeff2"></rect><rect x="32" y="240" width="447" height="10" rx="5" fill="#2b64f5"></rect>
+
+  <g font-size="14">
+    <line x1="32" y1="276" x2="508" y2="276" stroke="#eef0f3"></line>
+    <text x="32" y="302" fill="#5b6472">Verified holders</text><text x="508" y="302" text-anchor="end" font-weight="700" font-family="&#39;JetBrains Mono&#39;,monospace" fill="#16224d">1,284</text>
+    <line x1="32" y1="316" x2="508" y2="316" stroke="#eef0f3"></line>
+    <text x="32" y="342" fill="#5b6472">Lifecycle controls</text>
+    <rect x="430" y="328" width="82" height="22" rx="11" fill="#e6f6ee"></rect><text x="471" y="343" text-anchor="middle" font-size="11.5" font-weight="600" fill="#1d8a57">Active</text>
+  </g>
+</svg>

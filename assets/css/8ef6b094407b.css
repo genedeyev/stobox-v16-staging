@@ -1,0 +1,78 @@
+
+/* ---------- mobile: rows of cards swipe instead of stacking ---------- */
+@media (max-width:640px){
+  .swipe{display:flex!important;flex-direction:row!important;flex-wrap:nowrap!important;
+    grid-template-columns:none!important;grid-template-rows:none!important;
+    overflow-x:auto;overflow-y:hidden;scroll-snap-type:x mandatory;gap:14px!important;
+    margin-inline:calc(-1 * var(--page-pad));padding-inline:var(--page-pad) var(--page-pad);
+    padding-bottom:4px;scrollbar-width:none;-webkit-overflow-scrolling:touch;
+    background:transparent!important;border:0!important;overscroll-behavior-x:contain;
+    /* a track inside a grid cell must not size the cell to its content: contain the inline size */
+    contain:inline-size;min-width:0;width:calc(100% + 2 * var(--page-pad));box-sizing:border-box;
+    scroll-padding-inline:var(--page-pad)}
+  .swipe::-webkit-scrollbar{display:none}
+  /* a card is sized to its track, not to the viewport: a track inside a panel is narrower */
+  .swipe > *{flex:0 0 min(82%,360px)!important;scroll-snap-align:start;min-width:0;
+    max-width:none!important;width:auto!important;margin:0!important}
+  /* hairline grids drew their lines with the grid ground; on a track each card draws its own */
+  .swipe.hgrid > *,.hgrid.swipe > *{border:1px solid var(--hairline)}
+  .swipe.stats > *{flex-basis:min(60%,240px)!important}
+  /* a logo row is a strip of marks, not a row of cards */
+  .swipe.clients > *,.swipe.work-names > *{flex-basis:min(46%,190px)!important;border:0}
+  .swipe.how-3 > *{flex-basis:min(88%,380px)!important}
+  /* inside a padded panel the track keeps to the panel: no bleed, cards sized to the panel */
+  .accent-copy .swipe,.st-way .swipe,.cta .swipe{margin-inline:0;width:100%;padding-inline:0}
+  .accent-copy .swipe > *{flex-basis:min(88%,320px)!important;white-space:normal;overflow:visible}
+  /* a ledger on a coloured panel is drawn in the panel's own ink */
+  .accent-copy .swipe-nav,.st-way .swipe-nav{color:rgba(255,255,255,.75)}
+  .accent-copy .swipe-nav .dots i,.st-way .swipe-nav .dots i{background:rgba(255,255,255,.35)}
+  .accent-copy .swipe-nav .dots i.on,.st-way .swipe-nav .dots i.on{background:#fff}
+  .accent-copy .swipe-nav .n,.st-way .swipe-nav .n{color:#fff}
+  /* the opening plate: a 118px sliver at 128/43 on a phone says nothing, so it opens up to 16/9 */
+  .hero-plate{aspect-ratio:16/9!important;max-height:none}
+  /* the ledger under a track: dots that stretch, and a count in the record face */
+  .swipe-nav{display:flex;align-items:center;gap:14px;margin-top:14px;
+    font-family:var(--font-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;color:var(--muted)}
+  .swipe-nav .dots{display:flex;gap:6px;align-items:center;flex-wrap:wrap;max-width:70%}
+  .swipe-nav .dots i{display:block;width:6px;height:6px;border-radius:3px;background:var(--hairline-strong);
+    transition:width var(--dur-reveal) var(--ease-out),background var(--dur-control) ease}
+  .swipe-nav .dots i.on{width:20px;background:var(--blue)}
+  .swipe-nav .n{margin-left:auto;font-variant-numeric:tabular-nums;color:var(--ink)}
+  .swipe-nav .n b{font-weight:400;color:var(--muted)}
+  /* the first-reveal nudge: the track slides 22px and back, once, to say it moves */
+  .js .swipe.nudge{animation:swipe-nudge 1.1s var(--ease-out) .35s 1}
+  @keyframes swipe-nudge{0%{transform:translateX(0)}45%{transform:translateX(-22px)}100%{transform:translateX(0)}}
+}
+@media (min-width:641px){.swipe-nav{display:none}}
+/* the narrowest phones: these rules load last on every page, so they win */
+@media (max-width:400px){
+  .cta{grid-template-columns:1fr!important}.cta-col,.cta-col > *{min-width:0}
+  .stats{grid-template-columns:1fr 1fr!important}.stat{padding:16px 12px 18px!important}.stat-fig{font-size:32px!important}
+  .getnow{flex-direction:column!important}.getnow > *{width:auto!important;min-width:0}
+  .reg-pub{width:auto!important;max-width:100%;min-width:0}.reg-row{grid-template-columns:1fr!important}
+  :root{--page-pad:16px}
+  .getnow > *{flex:1 1 auto!important}
+}
+
+/* ---------- the motion layer ---------- */
+/* a plate settles as it is revealed: the wipe uncovers it while it eases from 1.04 to 1 */
+.js .wipe img,.js .hero-plate img{transform:scale(1.04);transform-origin:50% 60%}
+.js .wipe.in img,.js .hero-plate.in img{transform:scale(1);
+  transition:clip-path var(--dur-reveal) var(--ease-out),transform 1.4s var(--ease-out)}
+/* a section head arrives in order: eyebrow, then the H2, then the note */
+.js .sec-head > *{opacity:0;transform:translateY(12px)}
+.js .sec-head.in > *{opacity:1;transform:none;
+  transition:opacity var(--dur-reveal) var(--ease-out),transform var(--dur-reveal) var(--ease-out)}
+.js .sec-head.in > *:nth-child(1){transition-delay:0ms}
+.js .sec-head.in > *:nth-child(2){transition-delay:90ms}
+.js .sec-head.in > *:nth-child(3){transition-delay:180ms}
+.js .sec-head.in > *:nth-child(4){transition-delay:260ms}
+/* the hero plate drifts against the scroll, a few pixels, so the opening has depth */
+.js .hero-plate{will-change:transform}
+/* a figure that counts is set in the record face so the digits do not jitter */
+.count{font-variant-numeric:tabular-nums}
+@media (prefers-reduced-motion:reduce){
+  .js .wipe img,.js .hero-plate img,.js .wipe.in img,.js .hero-plate.in img{transform:none;transition:none}
+  .js .sec-head > *,.js .sec-head.in > *{opacity:1;transform:none;transition:none}
+  .js .swipe.nudge{animation:none}
+}

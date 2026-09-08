@@ -1,0 +1,9 @@
+
+/* this page closes the batch-2 way (Contact.dc.html): a 28px H2 in two equal cells. After chrome,
+   whose batch-1 closing block would otherwise restate 38px. */
+.cta-col h2{font-size:28px;max-width:26ch;letter-spacing:-.015em;line-height:1.3;margin-top:0}
+.cta-col p{margin-top:14px;max-width:52ch;font-size:16px}
+.sec-head.sec-head-3{grid-template-columns:180px 1fr 1fr!important}
+.sec-head-3 .sec-note{grid-column:3;grid-row:1}
+.pagelegal{margin-top:34px;max-width:100ch;font-size:16px;color:var(--body);line-height:1.6}
+@media (max-width:1040px){.sec-head.sec-head-3{grid-template-columns:1fr!important}.sec-head-3 .sec-note{grid-column:auto;grid-row:auto;padding-top:0;margin-top:14px}}
