@@ -55,7 +55,7 @@ None. No environment variables, no secrets.
 
 ## Deploy and operate
 
-A push to `main` republishes the site through GitHub's built-in Pages build. Nothing is generated here: the pages were produced by builders that live in a separate private repository (`stobox-v16`), which is also superseded. Do not edit the HTML by hand. To take the preview offline, disable GitHub Pages in the repository settings or change the repository visibility.
+A push to `main` republishes the site through GitHub's built-in Pages build. Nothing is generated here: the pages were produced by builders that live in a separate private repository (`stobox-v16`), which is also superseded and archived. Do not edit the HTML by hand. To take the preview offline, disable GitHub Pages in the repository settings or change the repository visibility.
 
 ## Versioning and releases
 
@@ -63,7 +63,7 @@ Semantic versioning in `VERSION`; there were no tags, so the first version is `0
 
 ## Related
 
-- `stobox-v16` (private): source, builders and the shipping gate for this export; superseded as well.
+- `stobox-v16` (private, archived on 2026-10-16): source, builders and the shipping gate for this export; superseded as well.
 - `stobox-v15` (private): the repository that builds the live V17 site.
 
 ## Open items
