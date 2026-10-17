@@ -4,6 +4,11 @@ All notable changes to this repository are recorded here. The format follows [Ke
 
 ## [Unreleased]
 
+### Fixed
+
+- 2026-10-17, brand-fact pass on the static export (Plane OPS-350). The retired volume figures are replaced by "$305M+ in assets structured and supported" in four articles, one page and three 2025 posts. A leaked authoring comment carrying an old figure is removed from one page. Three pieces that stated licenses or registrations in the present tense now say that Stobox is a technology company working alongside licensed partners.
+- Not changed on purpose: the dated posts about past events (2023 to 2025 announcements, the 2026 post about the Qatar program, the blog index, tag pages, feeds and search index that list them), and the one place that quotes a third-party directory verbatim.
+
 ## [0.1.0] - 2026-10-16
 
 First documented version, set on the state of `main` after the documentation pull request. The repository is superseded; this version changes documentation only.
